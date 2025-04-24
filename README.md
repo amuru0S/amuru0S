@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amuru0S&label=Profile%20views&color=0e75b6&style=flat" alt="amuru0S" /> </p>
 
 - I have worked on multiple projects using **Power BI, SQL, Excel, Python**.
-- I bring over **3 years of Working Experience in IT**.
+- I bring over **3 years of Working Experience in IT sector**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
